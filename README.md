@@ -41,7 +41,10 @@
 </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+
+📊 **GitHub Stats**
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhadsarder&show_icons=true&theme=radical" alt="farhadsarder" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adibaiitju&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibaiitju&layout=compact&theme=tokyonight"/>
 </p>
