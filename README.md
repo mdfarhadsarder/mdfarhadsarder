@@ -42,9 +42,7 @@
 </p>
 
 
-📊 **GitHub Stats**
-
+<h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adibaiitju&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibaiitju&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mdfarhadsarder&show_icons=true&theme=radical" alt="mdfarhadsarder" />
 </p>
